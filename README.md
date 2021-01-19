@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**Sintzy/Sintzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sintzy
 
-Here are some ideas to get you started:
+### Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá, eu me chamo Alessandro e atualmente tenho 13 anos e amo programar. 👋
+
+### Habilidades
+
+#### Linguagens
+
+<img src="https://img.shields.io/badge/Python-04721A" alt="Python"/> <img src="https://img.shields.io/badge/HTML5-FA580C" alt="HTML5"/> 
+<img src="https://img.shields.io/badge/CSS3-173FF2" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-ffc742" alt="JavaScript"/> 
+
+
+#### Bibliotecas
+- Neste momento eu uso muito o Discord.js
+
+
+#### Editor de código
+
+<img src="https://img.shields.io/badge/Visual--Studio--Code-1380B7" alt="npm"/>
+
+### Estatísticas
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=sintzy&show_icons=true&theme=dracula) 
+  
+<br>
+  
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sintzy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
