@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-Olá, eu me chamo Sintzy e atualmente tenho 14 anos e amo programar. 👋
+Olá, eu me chamo Sintzy e atualmente tenho || xx || anos e amo programar. 👋
 
 ### Habilidades
 
