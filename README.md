@@ -11,6 +11,7 @@ Olá, eu me chamo Sintzy e atualmente tenho XX anos e amo programar. 👋
 
 <img src="https://img.shields.io/badge/Python-04721A" alt="Python"/> <img src="https://img.shields.io/badge/HTML5-FA580C" alt="HTML5"/> 
 <img src="https://img.shields.io/badge/CSS3-173FF2" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-ffc742" alt="JavaScript"/> 
+<img src="https://img.shields.io/badge/React-.js-green" alt="react"/> 
 
 
 #### Bibliotecas
