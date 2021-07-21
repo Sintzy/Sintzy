@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-Olá, eu me chamo Sintzy e atualmente tenho XX anos e amo programar. 👋
+Olá, eu me chamo Sintzy e atualmente tenho 13 anos e amo programar. 👋
 
 ### Habilidades
 
@@ -14,8 +14,8 @@ Olá, eu me chamo Sintzy e atualmente tenho XX anos e amo programar. 👋
 <img src="https://img.shields.io/badge/React-.js-green" alt="react"/> 
 
 
-#### Bibliotecas
-- Neste momento eu uso muito o Discord.js
+#### Neste Momento
+- Agora estou lançando meu servidor de minecraft, se quiseres acompanhar o processo, entra no meu discord: https://discord.gg/73vtAkuHvH
 
 
 #### Editor de código
