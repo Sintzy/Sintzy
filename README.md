@@ -15,7 +15,7 @@ Olá, eu me chamo Sintzy e atualmente tenho 14 anos e amo programar. 👋
 
 
 #### Neste Momento
-- Agora estou lançando meu servidor de minecraft, se quiseres acompanhar o processo, entra no meu discord: https://discord.gg/73vtAkuHvH
+- A tentar aprender c++
 
 
 #### Editor de código
