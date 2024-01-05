@@ -4,12 +4,8 @@
 ### Sobre mim
 
 Olá, eu me chamo Migue! sou um adolescente de Portugal que tenta aprender programação... 👋
-<p><a href="mailto://miguelsantosmenezes@proton.me">
-<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="W3Schools.com" width="100" height="132">
-</a></p>
-<p><a href="https://paypal.me/meenezzes">
-<img src="[https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)" alt="W3Schools.com" width="100" height="132">
-</a></p>
+✉ [mailto://miguelsantosmenezes@proton.me](miguelsantosmenezes@proton.me)
+
 
 
 ### Habilidades
