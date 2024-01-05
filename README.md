@@ -1,8 +1,4 @@
 
-# Sintzy
-
-### Sobre mim
-
 Hey, Im Miguel, a teenager from portugal trying to do some programming stuff 👋
 <br>
 ✉ [miguelsantosmenezes@proton.me](mailto://miguelsantosmenezes@proton.me)
