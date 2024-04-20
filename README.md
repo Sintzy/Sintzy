@@ -22,4 +22,4 @@ Developing a fivem server...
   
 <br>
   
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menezes)](https://smenezes.pt)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sintzy)](https://smenezes.pt)
