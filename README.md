@@ -18,8 +18,8 @@ Developing a fivem server...
 
 ### Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=sintzy&show_icons=true&theme=dracula) 
+[![estatisticas](https://github-readme-stats.vercel.app/api?username=sintzy)](https://smenezes.pt)
   
 <br>
   
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sintzy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menezes)](https://smenezes.pt)
