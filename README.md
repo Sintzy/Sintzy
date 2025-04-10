@@ -30,6 +30,4 @@
     <img src="https://skillicons.dev/icons?i=aws,bash,mysql,cs,git,express,tailwind,css,html,js" />
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sintzy&show_icons=true&locale=en&layout=compact" alt="sintzy" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sintzy&show_icons=true&locale=en" alt="sintzy" /></p>
