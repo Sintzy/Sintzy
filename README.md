@@ -13,13 +13,13 @@
 
 <h3 align="center">Contact me!</h3>
 <p align="center">
-  <a href="https://instagram.com/esse.tal_de_menezes">
+  <a href="https://instagram.com/migueldsmenezes">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="<https://discord.com/users/852948371782369310>">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="mailto:miguel@smenezes.pt">
+  <a href="mailto:miguelsantosmenezes@proton.me">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
